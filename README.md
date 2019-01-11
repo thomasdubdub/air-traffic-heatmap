@@ -8,7 +8,7 @@ A 2D visualization of trajectories is realized with [ipyleaflet](https://ipyleaf
 
 Example: heatmap
 
-![Air Traffic heatmap](heatmap.png)
+![Air Traffic heatmap](air_traffic_heatmap.png)
 
 ## Running the tests
 
